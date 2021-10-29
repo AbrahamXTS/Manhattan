@@ -4,17 +4,11 @@
 <img src="https://i.imgur.com/KgWUuAd.jpeg" alt="Manhattan" height="230px" />
 
 </p>
-
 ---
 
 ## Equipo
 
-- Abraham Espinosa Mendoza [@AbrahamXTS](https://github.com/AbrahamXTS "Click Aquí")
-- Adjany Armenta Aguilar [@AdjanyArmenta](https://github.com/AdjanyArmenta "Click Aquí")
-- Bryan Emmanuel Cetzal Ceme [@BryanCetzal](https://github.com/BryanCetzal "Click Aquí")
-- Daniel García Cetina [@Daniel-Garcia-C](https://github.com/Daniel-Garcia-C "Click Aquí")
-- Ian Aguilar Ramirez [@IanAR7](https://github.com/IanAR7 "Click Aquí")
-- Libni Merari Castillo Vallejos [@LibniCastillo](https://github.com/Libnicastillo "Click Aquí")
+Hola
 
 ## Objetivo
 
